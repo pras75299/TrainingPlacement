@@ -1,0 +1,43 @@
+@media  (max-width: 380px) {
+.section_whoweare{
+	width:100%;
+	background:url(../images/whoweare.png) left top no-repeat;
+	padding:20px 0 30px 0;
+	background-size:cover;
+	}
+	
+.section_whowearetitle{
+	text-align:center;
+	}
+.section_whowearetitle h2{
+	font-size: 25px;
+	text-align: center;
+    color: #fff;
+	font-weight:bold;
+	letter-spacing: -.5px
+    margin: 0;
+    padding: 0;
+    line-height: 70px;
+	}
+	
+.section_whowearetitle p{	
+	font-size: 12px;
+	text-align: center;
+    color: #fff;
+	font-weight:300;
+	letter-spacing: -.5px
+    margin: 0;
+    padding: 0;
+    line-height: 24px;
+}	
+
+	
+
+#growright_img{
+	display:none;}
+	
+#growleft_img{
+	display:none;}	
+
+
+}
